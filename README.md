@@ -1,5 +1,5 @@
 # CUDALookupRipeMD60
-RipeMD60 Lookup using parrallel processing on NVidia CUDA Graphics card
+RipeMD60 Lookup using parallel processing on NVidia CUDA Compatible Graphics card
 
 Here is the source code I wrote while learning about RIPEMD160 and CUDA.
 
